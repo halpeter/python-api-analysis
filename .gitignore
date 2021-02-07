@@ -9,6 +9,8 @@ __pycache__/
 #Add API Keys
 *api_keys.py
 
+#Add DS Store
+*.DS_Store
 # Distribution / packaging
 .Python
 build/
