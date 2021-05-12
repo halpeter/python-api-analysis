@@ -1,4 +1,4 @@
-# python-api-challenge
+# Python API Analysis
 
 ## Background
 
@@ -30,7 +30,7 @@ Next, I ran linear regression on each relationship. This time, I separated the p
 
 After each plot, is a brief explanation of what the code is analyzing and an interpretation of this information.
 
-The information of these randomly selected cities and their weather data can be found here (code/WeatherPy/output_data/cities_weather.csv). All charts are saved as PNG's and can be viewed here (code/WeatherPy/output_data).
+The information of these randomly selected cities and their weather data can be found [here](code/WeatherPy/output_data/cities_weather.csv). All charts are saved as PNG's and can be viewed [here](code/WeatherPy/output_data).
 
 ### Part II - VacationPy
 
